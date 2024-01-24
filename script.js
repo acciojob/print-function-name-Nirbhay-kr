@@ -1,10 +1,10 @@
 //your JS code here. If required.
-let functionName() {
+functionName() {
 	alert("functionName");
 }
 functionName();
 
-let Acciojob() {
+Acciojob() {
 	alert("Acciojob");
 }
 Acciojob();
