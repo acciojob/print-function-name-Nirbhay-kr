@@ -1,10 +1,10 @@
 //your JS code here. If required.
-functionName() {
+function functionName() {
 	alert("functionName");
 }
 functionName();
 
-Acciojob() {
+function Acciojob() {
 	alert("Acciojob");
 }
 Acciojob();
