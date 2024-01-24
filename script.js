@@ -3,7 +3,7 @@ let functionName() => {
 	console.log("alert("functionName");");
 }
 let Acciojob() => {
-	alert("Acciojob");
+	console.log("alert("Acciojob");");
 }
 
 
